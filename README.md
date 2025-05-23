@@ -1,6 +1,6 @@
 # 🛒 Power BI Sales Dashboard – Store Sales Analysis
 
-Welcome to the `powerbi-sales-dashboard` repository! This project showcases a professional Power BI dashboard designed to analyze store sales—similar to how a platform like Amazon might track performance.
+Welcome to the `powerbi-sales-dashboard` repository! This project showcases a professional Power BI dashboard designed to analyze store sales—similar to how a platform like Amazon might track performance
 
 ## 📊 Project Overview
 
